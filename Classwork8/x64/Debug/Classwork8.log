@@ -1,0 +1,4 @@
+﻿  Classwork8.cpp
+C:\Users\glenn\Desktop\BCC\Cis25\Classwork8\Classwork8\Classwork8.cpp(8,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\glenn\Desktop\BCC\Cis25\Classwork8\Classwork8\Classwork8.cpp(10,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Classwork8.vcxproj -> C:\Users\glenn\Desktop\BCC\Cis25\Classwork8\x64\Debug\Classwork8.exe
